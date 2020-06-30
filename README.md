@@ -1,4 +1,24 @@
 # smart-irrigation-system
+Basically You need to program using Arduino software. Using Arduino programing , we are going to create this Smart irrigation system using IOT(Internet of Things).
+
+
+Steps:-
+Requirements:-
+Arduino board,
+ESP wifi module,
+soil moisture sensor,
+thermal sensor,
+male - male connector(wire),
+male - female connectors(wire),
+9 v battery,
+USB connector to arduino board,
+a motor pump and pipe,
+soil pot,
+a slab to adjust all components.
+
+Software:-
+computer system,
+arduino software for programming
 
 
 Create an account on Thingspeak website for IOT related data 
