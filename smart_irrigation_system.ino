@@ -3,7 +3,7 @@ int srdata;//store sensor data from sensor module
 int prdata;//store mapped data of the sensor data
 int pump_status;
 SoftwareSerial esp8266(3,4);
-
+//put your ssid and password details
 #define SSID "NTE"
 #define PASS "nepalnte"
 
